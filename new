@@ -1,3 +1,11 @@
 <html>
-<marquee
+<body bgcolor="green">
+  <center>
+    <font color="red" size="200px">
+<marquee behavior="alternate" direction="up" width="80%">
+	<marquee direction="right" behavior="alternate">This is a newer version of Uberbinayak Application!</marquee>
+</marquee>
+    </font>
+  </center>
+</body>
 </html>
